@@ -1,7 +1,7 @@
 # eJPT
 
 # eJPT Notes 2022 *(eLearnSecurity Junior Penetration Tester)*
-#### Twitter: @GRuMPzSux
+#### 
 ### Collection of notes to prepare for the eLearnSecurity eJPT certification exam.
 
 ### Before you continue reading, please do the following:
